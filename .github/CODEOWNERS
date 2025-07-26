@@ -1,0 +1,21 @@
+# Global code ownership
+# This file defines code ownership for the repository
+# All changes require approval from @soumiksarkar
+
+# Global ownership - all files
+* @soumiksarkar
+
+# Specific ownership for critical files
+/.github/ @soumiksarkar
+/package.json @soumiksarkar
+/package-lock.json @soumiksarkar
+/Dockerfile @soumiksarkar
+/docker-compose.yml @soumiksarkar
+/.env* @soumiksarkar
+/README.md @soumiksarkar
+/LICENSE @soumiksarkar
+
+# Security and configuration files
+/security/ @soumiksarkar
+/config/ @soumiksarkar
+/.github/workflows/ @soumiksarkar 
